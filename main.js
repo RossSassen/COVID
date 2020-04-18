@@ -29,7 +29,7 @@ const context = {
     {
       image: 'https://www.minimus.biz/Images/F25-2509105-4100bg-1.jpg',
       name: 'Cardboard Packaged Food',
-      description: 'The coronavirus has a relatively short life span on cardboard items.',
+      description: 'The coronavirus has a relatively short life span on cardboard items. If possible you can leave the cardboard items out for 24 hours to eliminate the virus. If you need to use the items in a shorter time span, wipe the box down with a disinfectant.',
       price: ''
     }
   ]
