@@ -1,6 +1,6 @@
 /* General Rulesets */
 * {
-    color: rebbecapurple;
+    color: rebeccapurple;
   }
   
   body {
@@ -63,12 +63,12 @@
   
   #introduction {
     text-align: center;
-    margin-top: 15%;
-    margin-bottom: 50%;
+    margin-top: 5%;
+    margin-bottom: 10%;
   }
   
   #introduction h1 {
-    font-size: 60px;
+    font-size: 40px;
   }
   
   #introduction p {
@@ -80,18 +80,23 @@
   #introduction a {
     display: block;
     width: 20%;
-    padding: 3% 8%;
+    padding: 1% 1%;
     margin: 0 auto;
     color: rebbecapurple;
     background-color: #4c7ef3;
+    border: 1px solid black;
     border-radius: 4px;
   }
   
   #introduction a:hover {
     background-color: #26A69A;
   }
+
+  #guide {
+    font-size: 30px;
+  }
   
-  /* Store Page Rulesets */
+  /* Groceries Page Rulesets */
   
   #showcase {
     margin-top: 5%;
@@ -101,9 +106,10 @@
   .instrument {
     width: 90%;
     overflow: auto;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgb(214, 89, 210);
     padding: 2% 5%;
     margin: 5% auto;
+    border: 2px solid black;
     border-radius: 5px;
   }
   
@@ -113,6 +119,8 @@
     width: 32%;
     min-width: 100px;
     margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 2px;
   }
   
   .details {
@@ -154,7 +162,7 @@
     text-align: left;
   }
   
-  /* Contact Page Rulesets */
+  /* Referance Page Rulesets */
   
   #connection {
     width: 100%;
